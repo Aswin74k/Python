@@ -1,0 +1,1 @@
+amount = int(input())

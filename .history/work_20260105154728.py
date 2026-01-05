@@ -1,0 +1,9 @@
+amount = int(input("Enter purchase amount:"))
+if amount > 1000: 
+    discount = amount * 10 / 100
+    finaldiscount = amount - discount
+    print("10 % discount applied")
+    print("final amount",finlal_amount)
+else: 
+    print("No discount") 
+    print("final amount",amount)   
