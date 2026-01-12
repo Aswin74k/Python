@@ -300,8 +300,7 @@
 # print(my_modules.fibonacci(7))
 
 
-import random
-import my_modules
+import ran
 print(my_modules.random_number())
 
 

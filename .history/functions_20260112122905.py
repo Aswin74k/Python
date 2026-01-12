@@ -285,23 +285,17 @@
 
 
 # built in module
-# import math
-# print(math.sqrt(25))
-# print(math.factorial(7))
+import math
+print(math.sqrt(25))
+print(math.factorial(7))
 
 # custom mudules
-# import my_module
-# print(my_module.add(10,30))
-# print(my_module.sub(20,10))
-
-# import my_modules
-# print(my_modules.factorial(5))
-# print(my_modules.add(30,40))
-# print(my_modules.fibonacci(7))
+import my_module
+from my_module import sub
+print(my_module.add(10,30))
+print(my_module.sub(20,10))
 
 
-import random
-import my_modules
-print(my_modules.random_number())
+
 
 

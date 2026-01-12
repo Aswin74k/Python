@@ -301,7 +301,7 @@
 
 
 import random
-import my_modules
+import my
 print(my_modules.random_number())
 
 

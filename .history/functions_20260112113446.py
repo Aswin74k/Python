@@ -250,58 +250,10 @@
 # Copying
 
 
-
-
-
 # Lamda functon
-# add = lambda a,b : a + b
-# print(add(10,20))
+
+add  
 
 
-# cube = lambda n: n ** 3
-# print(cube(7)) 
-
-
-
-# n = 5
-# fact = 1
-# for i in range(1, n+1):
-#     fact *=i
-# print(fact)    
-
-# # function with recursion
-# def factorial(n):
-#     if n==1:
-#         return n
-#     return n * factorial(n-1)
-# print(factorial(5)) 
-
-
-# def fibonacci(n):
-#     if n<1:
-#         return n
-#     return fibonacci(n-1) + fibonacci(n-2)  
-# print(fibonacci(6))  
-
-
-# built in module
-# import math
-# print(math.sqrt(25))
-# print(math.factorial(7))
-
-# custom mudules
-# import my_module
-# print(my_module.add(10,30))
-# print(my_module.sub(20,10))
-
-# import my_modules
-# print(my_modules.factorial(5))
-# print(my_modules.add(30,40))
-# print(my_modules.fibonacci(7))
-
-
-import random
-import my_modules
-print(my_modules.random_number())
 
 
