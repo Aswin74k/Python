@@ -1,0 +1,7 @@
+  
+
+file.write("Name: Aswin")      
+file.write("Age: 21")           
+("Course: full stack")       
+
+file.close()                      

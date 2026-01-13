@@ -1,0 +1,20 @@
+file = open('sam.txt','w')
+file.write("hello guys")
+file.close()
+
+
+file = open('sam.txt','a')
+file.write("Append text")
+filre.close()
+
+
+file = open('sam.txt','r+')
+file.write("Good morning")
+filre.close()
+
+file = open('sam.txt','r')
+content = file.read()
+print(content)
+file.close()
+
+

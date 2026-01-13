@@ -19,10 +19,3 @@
 # import random
 # def random_number():
 #     return random.randint(1,10)
-
-
-# import random
-# from datetime import datetime
-# now = datetime.now()
-# print(now.date())
-# print(now.time())

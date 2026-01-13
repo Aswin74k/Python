@@ -1,0 +1,5 @@
+Name: Aswin     
+Age: 21           
+Course: full stack      
+
+file.close()                      
