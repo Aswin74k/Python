@@ -1,0 +1,4 @@
+class car:
+    def_init_(self,brand,model,price):
+        self.brand = brand
+        self.model =

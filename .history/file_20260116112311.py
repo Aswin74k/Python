@@ -32,4 +32,5 @@ with open('student.txt','r') as file:
 import os
 print(os.getcwd())
 os.mkdir('newFolder')
+os.mkdir('text')
 print(os.listdir())

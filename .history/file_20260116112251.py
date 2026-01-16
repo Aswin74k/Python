@@ -33,3 +33,4 @@ import os
 print(os.getcwd())
 os.mkdir('newFolder')
 print(os.listdir())
+os.mkdir('')

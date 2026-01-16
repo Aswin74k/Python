@@ -3,11 +3,9 @@
 # file.close()
 
 
-
 # file = open('sam.txt','a')
 # file.write("Append text")
 # file.close()
-
 
 
 # file = open('sam.txt','r')
@@ -20,14 +18,13 @@
 # file.close()
 
 
-
 # file = open("student.txt", "r")   
 # content = file.read()             
 # print(content)                    
 # file.close()                      
 
-with open('student.txt','r') as file:
-    print(file.read())
+# with open('student.txt','r') as file:
+#     print(file.read())
 
 import os
 print(os.getcwd())
